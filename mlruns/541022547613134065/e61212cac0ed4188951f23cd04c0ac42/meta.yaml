@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/541022547613134065/e61212cac0ed4188951f23cd04c0ac42/artifacts
+end_time: 1733168596333
+entry_point_name: ''
+experiment_id: '541022547613134065'
+lifecycle_stage: active
+run_id: e61212cac0ed4188951f23cd04c0ac42
+run_name: funny-carp-142
+run_uuid: e61212cac0ed4188951f23cd04c0ac42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733167793579
+status: 3
+tags: []
+user_id: higut

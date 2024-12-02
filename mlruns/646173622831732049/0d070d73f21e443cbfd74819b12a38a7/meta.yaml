@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/646173622831732049/0d070d73f21e443cbfd74819b12a38a7/artifacts
+end_time: 1733173123719
+entry_point_name: ''
+experiment_id: '646173622831732049'
+lifecycle_stage: active
+run_id: 0d070d73f21e443cbfd74819b12a38a7
+run_name: entertaining-rat-466
+run_uuid: 0d070d73f21e443cbfd74819b12a38a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733172310475
+status: 3
+tags: []
+user_id: higut
