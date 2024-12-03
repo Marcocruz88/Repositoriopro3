@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/368411137236315785/abe8ccaedf4646c7975e9b220dcff830/artifacts
+end_time: 1733235759291
+entry_point_name: ''
+experiment_id: '368411137236315785'
+lifecycle_stage: active
+run_id: abe8ccaedf4646c7975e9b220dcff830
+run_name: awesome-zebra-828
+run_uuid: abe8ccaedf4646c7975e9b220dcff830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733235493023
+status: 3
+tags: []
+user_id: higut
