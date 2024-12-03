@@ -4,13 +4,6 @@ import pandas as pd
 import numpy as np
 from tensorflow.keras.models import load_model
 
-from dash import Dash, html, Input, Output, dcc  # Asegúrate de importar callback_context
-import dash_bootstrap_components as dbc
-import pandas as pd
-import numpy as np
-from tensorflow.keras.models import load_model
-
-
 modelo = load_model("ModeloFinal.keras")
 
 #Lanzar app
@@ -307,7 +300,7 @@ app.layout = dbc.Container([
         dbc.Row([
             dbc.Col(
                 dbc.Button("Calcular Puntaje", id="boton-calcular", color="primary", className="mt-3"),
-                width={"size": 4, "offset": 4}  # Centrado
+                width={"size": 8, "offset": 5}  # Centrado
             )
         ]),
 
