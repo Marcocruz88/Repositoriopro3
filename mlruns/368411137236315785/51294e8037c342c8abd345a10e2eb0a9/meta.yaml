@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/368411137236315785/51294e8037c342c8abd345a10e2eb0a9/artifacts
+end_time: 1733236394354
+entry_point_name: ''
+experiment_id: '368411137236315785'
+lifecycle_stage: active
+run_id: 51294e8037c342c8abd345a10e2eb0a9
+run_name: awesome-deer-883
+run_uuid: 51294e8037c342c8abd345a10e2eb0a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733235760458
+status: 3
+tags: []
+user_id: higut

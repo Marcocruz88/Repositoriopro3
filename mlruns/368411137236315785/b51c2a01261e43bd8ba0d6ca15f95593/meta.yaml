@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/368411137236315785/b51c2a01261e43bd8ba0d6ca15f95593/artifacts
+end_time: 1733237600392
+entry_point_name: ''
+experiment_id: '368411137236315785'
+lifecycle_stage: active
+run_id: b51c2a01261e43bd8ba0d6ca15f95593
+run_name: mercurial-cat-305
+run_uuid: b51c2a01261e43bd8ba0d6ca15f95593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733237174409
+status: 3
+tags: []
+user_id: higut

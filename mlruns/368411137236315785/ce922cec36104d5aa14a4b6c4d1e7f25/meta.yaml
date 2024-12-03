@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/368411137236315785/ce922cec36104d5aa14a4b6c4d1e7f25/artifacts
+end_time: 1733232012416
+entry_point_name: ''
+experiment_id: '368411137236315785'
+lifecycle_stage: active
+run_id: ce922cec36104d5aa14a4b6c4d1e7f25
+run_name: rebellious-croc-134
+run_uuid: ce922cec36104d5aa14a4b6c4d1e7f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733231795733
+status: 3
+tags: []
+user_id: higut

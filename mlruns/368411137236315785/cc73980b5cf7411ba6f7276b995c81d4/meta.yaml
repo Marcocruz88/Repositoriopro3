@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/368411137236315785/cc73980b5cf7411ba6f7276b995c81d4/artifacts
+end_time: 1733238326090
+entry_point_name: ''
+experiment_id: '368411137236315785'
+lifecycle_stage: active
+run_id: cc73980b5cf7411ba6f7276b995c81d4
+run_name: crawling-cat-648
+run_uuid: cc73980b5cf7411ba6f7276b995c81d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733237932364
+status: 3
+tags: []
+user_id: higut
