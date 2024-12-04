@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/higut/Downloads/Proyecto3/Repositoriopro3/mlruns/368411137236315785/d16d251f790b40c5869eadd4ae40f435/artifacts
+end_time: 1733272090969
+entry_point_name: ''
+experiment_id: '368411137236315785'
+lifecycle_stage: active
+run_id: d16d251f790b40c5869eadd4ae40f435
+run_name: big-skunk-75
+run_uuid: d16d251f790b40c5869eadd4ae40f435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733271485259
+status: 3
+tags: []
+user_id: higut
